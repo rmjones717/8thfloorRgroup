@@ -14,10 +14,6 @@ library(tidyverse)
 library(edgeR)
 library(limma)
 library(Glimma)
-library(gplots)
-library(RColorBrewer)
-library(NMF)
-library(pheatmap)
 
 #read in the data
 MabsReads <- read.csv('Mabsc.Expression.Gene.Data.ReadsM.csv')
