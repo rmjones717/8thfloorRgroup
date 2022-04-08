@@ -9,6 +9,8 @@
 #install.packages("BiocManager")
 #BiocManager::install(c("limma", "edgeR", "Glimma", "gplots", "RColorBrewer"))
 #install.packages(c("tidyverse", "pheatmap"))
+#recommend 'usethis' package for working with version control/git
+
 
 library(tidyverse)
 library(edgeR)
