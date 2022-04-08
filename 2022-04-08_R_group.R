@@ -14,7 +14,6 @@
 
 library(tidyverse)
 library(edgeR)
-library(limma)
 library(Glimma)
 
 #read in the data
